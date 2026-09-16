@@ -33,14 +33,5 @@ Mata kuliah Machine Learning membahas konsep dan penerapan algoritma pembelajara
 - Evaluasi model
 - Implementasi menggunakan Python dan library terkait (scikit-learn, pandas, numpy, dll.)
 
-## Cara Menjalankan
-
-Setiap jobsheet berisi file praktikum yang dapat dijalankan menggunakan Python/Jupyter Notebook.
-
-## Kontributor
-
-- Nama Mahasiswa (mengganti dengan nama anda)
-
-## Lisensi
 
 Repositori ini dibuat untuk keperluan pembelajaran.
