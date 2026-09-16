@@ -6,15 +6,15 @@ Repositori ini berisi dokumentasi dan praktikum mata kuliah **Machine Learning**
 
 | Folder | Materi |
 |--------|--------|
-| `JS1` | Jobshet 1 |
-| `JS2` | Jobshet 2 |
-| `JS3` | Jobshet 3 |
-| `JS4` | Jobshet 4 |
-| `JS5` | Jobshet 5 |
-| `JS6` | Jobshet 6 |
-| `JS7` | Jobshet 7 |
-| `JS8` | Jobshet 8 |
-| `JS9` | Jobshet 9 |
+| `JS01` | Jobshet 1 |
+| `JS02` | Jobshet 2 |
+| `JS03` | Jobshet 3 |
+| `JS04` | Jobshet 4 |
+| `JS05` | Jobshet 5 |
+| `JS06` | Jobshet 6 |
+| `JS07` | Jobshet 7 |
+| `JS08` | Jobshet 8 |
+| `JS09` | Jobshet 9 |
 | `JS10` | Jobshet 10 |
 | `JS11` | Jobshet 11 |
 | `JS12` | Jobshet 12 |
