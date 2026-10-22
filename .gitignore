@@ -1,0 +1,8 @@
+# Dataset besar (1.44 GB) — tidak disimpan di repository
+JS06 - ANN/songs_with_attributes_and_lyrics.csv
+JS06 - ANN/songs_features.parquet
+
+# File sementara Python dan Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
